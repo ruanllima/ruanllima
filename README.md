@@ -4,17 +4,20 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ruanlimafn@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ruanllima)
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    <p>🚀 Passionate about technology and constant challenges.</p>
-    <p>📊 Data Science</p>
-    <p>💻 Backend development</p>
-    <p>🎹 Musician in my spare time</p>
-    <p>🎓 Always seeking knowledge and personal growth.</p>
-  </div> <img height="200" src="https://cdn.discordapp.com/attachments/790738063500378124/1345053086179393683/download.gif?ex=67c325cd&is=67c1d44d&hm=6425e679e42adcd78bf4c1b71f32320bd00502ad670aeb97d374bab40820bc70&">
-</div>
 
-<div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
+  <div>
+    <img align="right" height="200" src="https://cdn.discordapp.com/attachments/790738063500378124/1345053086179393683/download.gif?ex=67c325cd&is=67c1d44d&hm=6425e679e42adcd78bf4c1b71f32320bd00502ad670aeb97d374bab40820bc70&">
+    <h6>🚀 Technology and mathematics enthusiast</h6>
+    <h6>📊 Data Science</h6>
+    <h6>💻 Backend development</h6>
+    <h6>🎹 Musician in my spare time</h6>
+    <h6>🎓 Always seeking knowledge and professional growth.</h6>
+    
+  </div> 
+
+ ##
+
+<div>
   <a href="https://github.com/ruanllima">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=ruanllima&theme=outrun&include_all_comits=true" />
   </a>
@@ -41,6 +44,7 @@
   <a align="center" href="https://github.com/ruanllima">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ruanllima&layout=compact&theme=outrun&langs_count=8&card_width=320"/>
   </a>
+  <img align="right" height="200" src="https://cdn.discordapp.com/attachments/790738063500378124/1345053086179393683/download.gif?ex=67c325cd&is=67c1d44d&hm=6425e679e42adcd78bf4c1b71f32320bd00502ad670aeb97d374bab40820bc70&">
 </div>
 
 
