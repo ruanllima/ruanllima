@@ -43,7 +43,6 @@
   <a align="center" href="https://github.com/ruanllima">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ruanllima&layout=compact&theme=outrun&langs_count=8&card_width=320"/>
   </a>
-  <img align="right" height="200" src="https://cdn.discordapp.com/attachments/790738063500378124/1345053086179393683/download.gif?ex=67c325cd&is=67c1d44d&hm=6425e679e42adcd78bf4c1b71f32320bd00502ad670aeb97d374bab40820bc70&">
 </div>
 
 
