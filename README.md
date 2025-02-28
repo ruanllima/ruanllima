@@ -7,12 +7,11 @@
 
   <div>
     <img align="right" height="200" src="https://cdn.discordapp.com/attachments/790738063500378124/1345053086179393683/download.gif?ex=67c325cd&is=67c1d44d&hm=6425e679e42adcd78bf4c1b71f32320bd00502ad670aeb97d374bab40820bc70&">
-    <h6>🚀 Technology and mathematics enthusiast</h6>
-    <h6>📊 Data Science</h6>
-    <h6>💻 Backend development</h6>
-    <h6>🎹 Musician in my spare time</h6>
-    <h6>🎓 Always seeking knowledge and professional growth.</h6>
-    
+    <h5>🚀 Technology and mathematics enthusiast</h5>
+    <h5>📊 Data Science</h5>
+    <h5>💻 Backend development</h5>
+    <h5>🎹 Musician in my spare time</h5>
+    <h5>🎓 Always seeking knowledge and professional growth.</h5>
   </div> 
 
  ##
