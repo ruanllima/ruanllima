@@ -52,9 +52,10 @@
  ##
 
 ### Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruanllima&repo=portfolio&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruanllima&repo=eda_commerce_mcz&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruanllima&repo=game&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruanllima&repo=portfolio&theme=outrun)](https://github.com/ruanllima/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruanllima&repo=eda_commerce_mcz&theme=outrun)](https://github.com/ruanllima/eda_commerce_mcz)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruanllima&repo=ML_SentimentAnalysis&theme=outrun)](https://github.com/ruanllima/ML_SentimentAnalysis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruanllima&repo=game&theme=outrun)](https://github.com/ruanllima/game)
 
 ![Snake animation](https://github.com/ruanllima/ruanllima/blob/output/github-contribution-grid-snake-dark.svg)
 
