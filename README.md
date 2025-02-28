@@ -38,5 +38,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruanllima&repo=eda_commerce_mcz&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruanllima&repo=game&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/ruanllima/ruanllima/blob/output/github-contribution-grid-snake-.svg)
+![Snake animation](https://github.com/ruanllima/ruanllima/blob/output/github-contribution-grid-snake-dark.svg)
 
