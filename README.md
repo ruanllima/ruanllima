@@ -1,4 +1,4 @@
-### Hi, i am Ruan Lima 👋
+/### Hi, i am Ruan Lima 👋
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-lima-a945a127a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ruanlimafn@gmail.com)
@@ -38,7 +38,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruanllima&repo=eda_commerce_mcz&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruanllima&repo=game&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 
-![snake animation](https://github.com/ruanllima/ruanllima/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/ruanllima/ruanllima/blob/output/github-contribution-grid-snake.svg)
 
 
 
